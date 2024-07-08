@@ -18,7 +18,7 @@ RewriteRule . /uniquestatuary/index.php [L]
 # The directives (lines) between "BEGIN Simply Static" and "END Simply Static" are
 # dynamically generated, and should only be modified via WordPress filters.
 # Any changes to the directives between these markers will be overwritten.
-<Files "C:\xampp2\htdocs\uniquestatuary/wp-content/uploads\simply-static\2d909c28d9b477b4d5c347dcb042d36c-debug.txt">
+<Files "C:\xampp2\htdocs\uniquestatuary/wp-content/uploads\simply-static\5e0b98e8a868a5f2646828660150287c-debug.txt">
 require all denied
 require host localhost
 </Files>

@@ -1,0 +1,166 @@
+@font-face {
+	font-weight: normal;
+	font-style: normal;
+	font-family: "woodmart-font";
+	src: url("//uniquestatuary.local/wp-content/themes/woodmart/fonts/woodmart-font-1-400.woff2?v=7.3.2") format("woff2");
+}
+
+.wd-popup.wd-promo-popup{
+	background-color:rgb(255,255,255);
+	background-image: url(http://uniquestatuary.local/wp-content/uploads/2021/09/retail-popup-bg.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center center;
+}
+
+.page-title-default{
+	background-color:#0a0a0a;
+	background-image: url(http://uniquestatuary.local/wp-content/uploads/2021/09/retail-page-title.jpg);
+	background-size:cover;
+	background-position:center center;
+}
+
+.footer-container{
+	background-color:rgb(1,147,144);
+	background-image: none;
+}
+
+:root{
+--wd-text-font:"Poppins", Arial, Helvetica, sans-serif;
+--wd-text-font-weight:400;
+--wd-text-color:rgb(12,12,12);
+--wd-text-font-size:20px;
+}
+:root{
+--wd-title-font:"Nunito", Arial, Helvetica, sans-serif;
+--wd-title-font-weight:600;
+--wd-title-color:rgb(12,12,12);
+}
+:root{
+--wd-entities-title-font:"Poppins", Arial, Helvetica, sans-serif;
+--wd-entities-title-font-weight:500;
+--wd-entities-title-color:rgb(12,12,12);
+--wd-entities-title-color-hover:rgb(12, 12, 12);
+}
+:root{
+--wd-alternative-font:"Nunito", Arial, Helvetica, sans-serif;
+}
+:root{
+--wd-widget-title-font:"Nunito", Arial, Helvetica, sans-serif;
+--wd-widget-title-font-weight:600;
+--wd-widget-title-transform:uppercase;
+--wd-widget-title-color:rgb(12,12,12);
+--wd-widget-title-font-size:25px;
+}
+:root{
+--wd-header-el-font:"Poppins", Arial, Helvetica, sans-serif;
+--wd-header-el-font-weight:400;
+--wd-header-el-transform:uppercase;
+--wd-header-el-font-size:15px;
+}
+html .product.category-grid-item .wd-entities-title, html .product.category-grid-item.cat-design-replace-title .wd-entities-title, html .categories-style-masonry-first .category-grid-item:first-child .wd-entities-title, html .product.wd-cat .wd-entities-title{
+	font-size: 16px;
+}
+
+:root{
+--wd-brd-radius: 25px;
+}
+:root{
+--wd-primary-color:rgb(1,147,144);
+}
+:root{
+--wd-alternative-color:rgb(181,218,148);
+}
+:root{
+--wd-link-color:rgb(1,147,144);
+--wd-link-color-hover:rgb(181,218,148);
+}
+:root{
+--btn-default-bgcolor:#f7f7f7;
+}
+:root{
+--btn-default-bgcolor-hover:#efefef;
+}
+:root{
+--btn-accented-bgcolor:rgb(244,165,28);
+}
+:root{
+--btn-accented-bgcolor-hover:rgb(222,150,26);
+}
+:root{
+--notices-success-bg:#459647;
+}
+:root{
+--notices-success-color:#fff;
+}
+:root{
+--notices-warning-bg:#E0B252;
+}
+:root{
+--notices-warning-color:#fff;
+}
+
+	:root{
+									--wd-form-brd-radius: 35px;
+			
+			
+					
+					--wd-form-brd-width: 2px;
+		
+					--btn-default-color: #333;
+		
+					--btn-default-color-hover: #333;
+		
+					--btn-accented-color: #fff;
+		
+					--btn-accented-color-hover: #fff;
+		
+					
+			
+							--btn-default-brd-radius: 35px;
+				--btn-default-box-shadow: none;
+				--btn-default-box-shadow-hover: none;
+			
+					
+					
+			
+							--btn-accented-brd-radius: 35px;
+				--btn-accented-box-shadow: none;
+				--btn-accented-box-shadow-hover: none;
+			
+					
+							
+		
+			}
+
+	
+	
+			:root{
+			--wd-container-w: 1222px;
+		}
+	
+			@media (min-width: 1239px) {
+			.platform-Windows .wd-section-stretch > .elementor-container {
+				margin-left: auto;
+				margin-right: auto;
+			}
+		}
+		@media (min-width: 1222px) {
+			html:not(.platform-Windows) .wd-section-stretch > .elementor-container {
+				margin-left: auto;
+				margin-right: auto;
+			}
+		}
+	
+			div.wd-popup.popup-quick-view {
+			max-width: 920px;
+		}
+	
+	
+	
+	
+			.woodmart-woocommerce-layered-nav .wd-scroll-content {
+			max-height: 223px;
+		}
+	
+	
