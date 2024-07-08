@@ -13,6 +13,9 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /uniquestatuary/index.php [L]
 </IfModule>
 
+
+php_value max_execution_time 300
+
 # END WordPress
 # BEGIN Simply Static
 # The directives (lines) between "BEGIN Simply Static" and "END Simply Static" are
