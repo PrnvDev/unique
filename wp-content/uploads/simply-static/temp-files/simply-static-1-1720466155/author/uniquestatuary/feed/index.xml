@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>unique statuary</title>
-	<atom:link href="http://localhost/uniquestatuary/feed/?simply_static_page=857" rel="self" type="application/rss+xml" />
+	<title>uniquestatuary &#8211; unique statuary</title>
+	<atom:link href="http://localhost/uniquestatuary/author/uniquestatuary/feed/?simply_static_page=1754" rel="self" type="application/rss+xml" />
 	<link>https://prnvdev.github.io/unique</link>
 	<description></description>
 	<lastBuildDate>Mon, 08 Jul 2024 19:08:26 +0000</lastBuildDate>
